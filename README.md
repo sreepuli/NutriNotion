@@ -1,7 +1,7 @@
 # 🍽️ NutriNotion
 
 <p align="center">
-  <img src="assets/app_icon.png" width="140"/>
+  <img src="NutriNotion-Frontend\assets\icons\app_icon.png" width="140"/>
 </p>
 
 <p align="center">
