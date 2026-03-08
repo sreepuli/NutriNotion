@@ -1,4 +1,23 @@
-# NutriNotion 🥗
+# 🍽️ NutriNotion
+
+<p align="center">
+  <img src="assets/app_icon.png" width="140"/>
+</p>
+
+<p align="center">
+<b>Your Personal Nutrition Companion</b>
+</p>
+
+<p align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-3.6-blue?logo=flutter)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.2-green?logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange?logo=google)
+![Dart](https://img.shields.io/badge/Dart-3.6-blue?logo=dart)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</p>
 
 A personalized nutrition tracking app powered by AI. NutriNotion generates daily meal plans tailored to each user's health goals, dietary preferences, and available mess/cafeteria menu — then tracks calorie intake as meals are checked off throughout the day.
 
